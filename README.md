@@ -12,6 +12,6 @@ git clone https://github.com/mdnajmulislambd/F-hack.git
 
 cd F-hack
 
-F-hack.py
+python3 F-hack.py
 
 
